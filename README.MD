@@ -3,13 +3,13 @@
 
 To be able to connect you board to the server you will need the following information:
 
-1- serverAddress
+- serverAddress
 
-2- endPoint
+- endPoint
 
-3- access_token
+- access_token
 
-4- deviceID
+- deviceID
 
 If you are not registerd with us.
 
